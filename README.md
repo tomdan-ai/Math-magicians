@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
 
+
 <div align="center">
 
  <h3><b>Math Magicians README</b></h3>
@@ -104,6 +105,11 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
+
+### Usage
+
+<!--
+Example command:
 
 ```sh
     cd math magicians
